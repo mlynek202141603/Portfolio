@@ -14,3 +14,8 @@ In recent years, personal heart rate monitors have grown in popularity and are u
 ## Analysis of University of Connecticut Athletics Budget, 2015-2020
 
 The goals of this indpendent project were to 1) analyze expenses and revenues of University of Connecticut (UConn) Athletic Department from 2015 to 2020 in light of recent budget cuts, 2)to determine any possible discrepencies in fund allocation between Men’s and Women’s teams, 3) to investigate trends of specific expenses by team and gender, and to determine areas of significant increase, and 4) to determine any statistically significant relationship between revenue and expense categories in an effort to increase revenue.
+
+
+
+LinkedIn: https://www.linkedin.com/in/magdalene-mlynek-600695159/
+Email: m.mlynek@lse.ac.uk
