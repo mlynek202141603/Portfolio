@@ -18,4 +18,5 @@ The goals of this indpendent project were to 1) analyze expenses and revenues of
 
 
 LinkedIn: https://www.linkedin.com/in/magdalene-mlynek-600695159/
+
 Email: m.mlynek@lse.ac.uk
